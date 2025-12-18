@@ -75,13 +75,19 @@ sudo xbps-install -S base-devel
 
 ## 📚 Conceitos Básicos
 
-* ✅ **Olá Mundo!** 🌍  
-  `1-Conceitos-Basicos/hello_word/README.md`
-* ✅ **Tipos de Dados Primitivos** 🔢  
-  `int`, `float`, `double`, `char`, `bool`, `std::string`
-* ✅ **Entrada e Saída** ⌨️🖥️  
-  `cin`, `cout`
-* ✅ **Condicionais** 🔀  
+- [x] **[Olá Mundo!]** 🌍  
+  `1-Conceitos-Basicos/hello_word/` → **[Olá Mundo!.md](https://github.com/Samwns/Aprendendo_Cpp/blob/main/1-Conceitos-Basicos/hello_word/Hello_word.md)**
+  
+- [x] **[Tipos de Dados Primitivos]** 🔢  
+  `1-Conceitos-Basicos/Tipos-de-Dados-Primitivos-em-C++/` → **[Tipos de Dados Primitivos](https://github.com/Samwns/Aprendendo_Cpp/blob/main/1-Conceitos-Basicos/Tipos-de-Dados-Primitivos-em-C%2B%2B/Tipos%20de%20Dados%20Primitivos.md)**  
+  Variaveis: `int`, `float`, `double`, `char`, `bool`, `std::string`, `size_t`, `unsigned`  → **[Variaveis](https://github.com/Samwns/Aprendendo_Cpp/blob/main/1-Conceitos-Basicos/Tipos-de-Dados-Primitivos-em-C%2B%2B/Variaveis/Variaveis.md)**
+  
+- [x] **[Entrada e Saída]** ⌨️🖥️  
+  `1-Conceitos-Basicos/Tipos-de-Dados-Primitivos-em-C++/Variaveis/` → **[Entrada e saída](https://github.com/Samwns/Aprendendo_Cpp/blob/main/1-Conceitos-Basicos/Tipos-de-Dados-Primitivos-em-C%2B%2B/Entrada_e_saida.md)**  
+  `std::cin`, `std::cout`, `std::getline`
+  
+- [x] **[Condicionais]** 🔀  
+  `1-Conceitos-Basicos/Condicionais/` → **[Condicionais](https://github.com/Samwns/Aprendendo_Cpp/blob/main/1-Conceitos-Basicos/Condicionais/Condicionais.md)**  
   `if`, `else`, `else if`
 
 ---
