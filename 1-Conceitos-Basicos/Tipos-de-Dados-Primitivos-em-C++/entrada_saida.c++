@@ -5,6 +5,8 @@
 //bibliotecas
 #include <iostream>
 #include <string>
+#include <stdio.h>
+#include <windows.h>
 
 //função principal
 int main(){
@@ -45,6 +47,32 @@ int main(){
     std::cout << "Você Mede: " << altura << "\n";
 
 
+     /*
+        == → igual
+
+        = → diferente
+
+        > → maior
+
+        < → menor
+
+        >= → maior ou igual
+
+        <= → menor ou igual
+
+     */
+
+
+
+
+    if (peso >= 80) {
+        std::cout << "Voce tem:\n" << peso << "Voce é Imenso\n";
+    } else {
+         std::cout << "Voce não e obeso\n"; //ae não é obeso
+    } // kkkkkkkkkkkkkkkkkkkkkk   
+    
+    
+    
     system("pause");
     return 0;
 
