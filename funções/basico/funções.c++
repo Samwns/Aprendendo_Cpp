@@ -8,7 +8,7 @@ std::string dinosaur();
 int main() { //Isso basicamnete cria a função principal é daqui que o programa inicializa primeiramente roda essa função
     std::cout << "Função principal \n";
     std::string palavra = dinosaur(); //armazena o retorno da função em palavra
-    std::cout << palavra << std::endl; //escreve na tela o c
+    std::cout << palavra << std::endl; //escreve na tela o conteudo de palavra
     return 0;
 }
 
